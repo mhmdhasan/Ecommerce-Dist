@@ -1,0 +1,26 @@
+------------------------------------------
+ CREDITS
+------------------------------------------
+
+    - Bootstrap 4    -    https://getbootstrap.com
+
+    - Font Awesome   -    https://fontawesome.com
+
+    - Orion Icons    -    https://orioniconlibrary.com/
+
+    - Lightbox2      -    https://lokeshdhakar.com/projects/lightbox2/
+
+    - Owl Carousel2  -    https://owlcarousel2.github.io/OwlCarousel2/
+
+    - Owl Thumbs     -    https://github.com/gijsroge/OwlCarousel2-Thumbs
+
+    - Nouislider     -    https://refreshless.com/nouislider/
+
+    - Animsition     -    https://git.blivesta.com/animsition/
+
+
+------------------------------------------
+ IMAGES
+------------------------------------------
+
+    - Images credits  -   https://unsplash.com
